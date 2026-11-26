@@ -103,21 +103,6 @@ The expected outcome is a cloud-based intelligent vaccine temperature monitoring
 
 The system aims to support better temperature monitoring and help responsible staff take timely action to protect vaccine quality.
 
-## 🚀 Project Development
-
-The project will be developed in the following phases:
-
-1. Develop the basic Flask web application and dashboard.
-2. Generate and integrate simulated temperature readings.
-3. Configure AWS storage services.
-4. Develop and evaluate the predictive Machine Learning model.
-5. Integrate AWS Lambda for data processing.
-6. Configure Amazon SNS for alert notifications.
-7. Deploy the application using Amazon EC2.
-8. Integrate monitoring using Amazon CloudWatch.
-9. Explore physical sensor integration using AWS IoT Core.
-
-
 
 **Smart Cold-Chain Assurance for Vaccines using Predictive Excursion Modelling**
 
